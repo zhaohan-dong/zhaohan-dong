@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhaohan-dong
-- 👀 I’m interested in Aviation, Cinematography and Entrepreneurship
+- 👀 I’m interested in XR, Aviation and venture capital
 - 📫 How to reach me: VHF or email
 
 <!---
