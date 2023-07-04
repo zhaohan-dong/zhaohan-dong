@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 <ul>
   <li>📍I'm currently based in London. Native Beijinger trasplanted to NYC during my college years.</li>
   <li>🎥👨‍🔬Huge believer in the blurred line between art and tech. STEM kid in high school and held movie camera at NYU, really wanted to do interactive film.</li>
-  <li>🤔Thinking about how to translate "soft" human insights and perceptions into automated systems.</li>
+  <li>🤔Thinking about how to translate "soft" human insights and perceptions into "hard" codes.</li>
   <li>👨‍✈️Certified as Commercial Pilot and Flight Instructor in the downtime (help me build hours if you want to learn flying).</li>
 </ul>
 
