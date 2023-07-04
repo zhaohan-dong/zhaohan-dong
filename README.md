@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
   <li>📍I'm currently based in London. Native Beijinger trasplanted to NYC during my college years.</li>
   <li>🎥👨‍🔬Huge believer in the blurred line between art and tech. STEM kid in high school and held movie camera at NYU.</li>
   <li>🤔Thinking about how to translate human insights and perceptions into automated systems.</li>
-  <li>👨‍✈️Certified as Commercial Pilot and Flight Instructor in the downtime (help me build hours if you want to learn flying)</li>
+  <li>👨‍✈️Certified as Commercial Pilot and Flight Instructor in the downtime (help me build hours if you want to learn flying).</li>
 </ul>
 
 BTW check out my website with Amanda Jiang [BeyondXR](https://beyondxr.business/).
