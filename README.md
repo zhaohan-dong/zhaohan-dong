@@ -9,6 +9,4 @@ You can click the Preview link to take a look at your changes.
   <li>📍London, UK</li>
 </ul>
 
-BTW check out my website with Amanda Jiang [BeyondXR](https://beyondxr.business/).
-
 Twitter: [@zhaohan_dong](https://twitter.com/zhaohan_dong)
