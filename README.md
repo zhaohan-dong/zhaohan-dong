@@ -7,11 +7,11 @@ You can click the Preview link to take a look at your changes.
 
 <ul>
   <li>📍London, UK</li>
+  <li><a href="https://linktr.ee/zhaohan_dong">My Social Media Links</a></li>
+  <li><a href="https://www.aiventurepulse.com">AI Venture Pulse - Newsletter and Podcast</a></li>
 </ul>
 
-<a href="https://linktr.ee/zhaohan_dong">My Social Media Links</a>
-
-
-<a href="https://www.aiventurepulse.com">AI Venture Pulse - Newsletter and Podcast</a>
+Currently working on:
+<a href="https://bot-for-bots.vercel.app">Bot to deal with customer service bots</a?
 
 Twitter: [@zhaohan_dong](https://twitter.com/zhaohan_dong)
