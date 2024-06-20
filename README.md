@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 </ul>
 
 <a link="https://linktr.ee/zhaohan_dong">My Social Media Links</a>
-<a link="https://www.aiventurepulse.com>AI Venture Pulse - Newsletter and Podcast</a>
+<a link="https://www.aiventurepulse.com">AI Venture Pulse - Newsletter and Podcast</a>
 
 Twitter: [@zhaohan_dong](https://twitter.com/zhaohan_dong)
