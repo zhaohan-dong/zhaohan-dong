@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 Currently working on:
 <a href="https://bot-for-bots.vercel.app">Bot to deal with customer service bots</a>
 
-Twitter: [@zhaohan_dong](https://twitter.com/zhaohan_dong)
+X(prev-Twitter): [@zhaohan_dong](https://twitter.com/zhaohan_dong)
