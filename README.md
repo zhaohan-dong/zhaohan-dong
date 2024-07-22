@@ -12,7 +12,9 @@ You can click the Preview link to take a look at your changes.
   <li><a href="https://www.aiventurepulse.com">AI Venture Pulse - Newsletter and Podcast</a> (Get in touch if you're an AI founder or VC!)</li>
 </ul>
 
-Currently working on:
-<a href="https://bot-for-bots.vercel.app">Bot to deal with customer service bots</a>
+Book Recommendations:
+- ![Option Volatility and Pricing](https://www.amazon.com/Option-Volatility-Pricing-Strategies-Techniques/dp/0071818774)
+- ![The Dao of Capital](https://www.amazon.com/Dao-Capital-Austrian-Investing-Distorted-ebook/dp/B00D7P2K1W) by a fellow NYU alum
+- ![Unix Power Tools](https://www.amazon.com/Power-Tools-Third-Shelley-Powers/dp/0596003307)
 
 X(prev-Twitter): [@zhaohan_dong](https://twitter.com/zhaohan_dong)
