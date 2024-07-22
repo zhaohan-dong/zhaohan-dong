@@ -17,4 +17,6 @@ Book Recommendations:
 - [The Dao of Capital](https://www.amazon.com/Dao-Capital-Austrian-Investing-Distorted-ebook/dp/B00D7P2K1W) by a fellow NYU alum
 - [Unix Power Tools](https://www.amazon.com/Power-Tools-Third-Shelley-Powers/dp/0596003307)
 
+Reading now: [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2023/xv6/book-riscv-rev3.pdf)
+
 X(prev-Twitter): [@zhaohan_dong](https://twitter.com/zhaohan_dong)
