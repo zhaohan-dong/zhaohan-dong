@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 <ul>
   <li>📍London, UK</li>
-  <li><a href="https://zhaohandong.com">[My Website](https://zhaohandong.com)</a> (Next.js on Vercel)</li>
+  <li><a href="https://zhaohandong.com">https://zhaohandong.com</a> (Next.js on Vercel)</li>
   <li><a href="https://www.aiventurepulse.com">AI Venture Pulse - Newsletter and Podcast</a> (Get in touch if you're an AI founder or VC!)</li>
 </ul>
 
