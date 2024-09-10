@@ -17,4 +17,4 @@ Book Recommendations:
 - [The Dao of Capital](https://www.amazon.com/Dao-Capital-Austrian-Investing-Distorted-ebook/dp/B00D7P2K1W) by Mark Spitznagel
 - [Unix Power Tools](https://www.amazon.com/Power-Tools-Third-Shelley-Powers/dp/0596003307)
 
-X(prev-Twitter): [@zhaohan_dong](https://twitter.com/zhaohan_dong)
+X: [@zhaohan_dong](https://twitter.com/zhaohan_dong)
