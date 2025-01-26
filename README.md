@@ -17,6 +17,7 @@ Book Recs:
 - [USAF AFM 51-40 Air Navigation](https://code7700.com/pdfs/usaf/afm_51-40_navigation.pdf)
 - [FAA Pilot’s Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) and [FAA Instrument Procedures Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook)
 - [Advanced Programming in the UNIX Environment](https://www.amazon.com/Advanced-Programming-UNIX-Environment-3rd/dp/0321637739)
+- [Basic Photographic Materials and Processes](https://www.amazon.com/Photographic-Materials-Processes-Nanette-Salvaggio/dp/1138744379)
 
 Found these books philosophically inspiring:
 - [Option Volatility and Pricing](https://www.amazon.com/Option-Volatility-Pricing-Strategies-Techniques/dp/0071818774)
